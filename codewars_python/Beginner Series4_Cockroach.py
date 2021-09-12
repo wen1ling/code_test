@@ -1,4 +1,9 @@
-#!/usr/bin/python
+"""
+问题描述
+https://www.codewars.com/kata/55fab1ffda3e2e44f00000c6
+"""
+
+# !/usr/bin/python
 # -*- coding: UTF-8 -*-
 
 import math

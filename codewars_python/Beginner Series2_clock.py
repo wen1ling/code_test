@@ -1,4 +1,10 @@
-#!/usr/bin/python
+"""
+问题描述
+https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a
+"""
+
+
+# !/usr/bin/python
 # -*- coding: UTF-8 -*-
 
 def past(h, m, s):
