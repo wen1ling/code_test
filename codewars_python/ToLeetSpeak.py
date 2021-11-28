@@ -23,3 +23,5 @@ def to_leet_speak(str):
             a = str[i]
         end_str += format(a)
     return end_str
+
+print(to_leet_speak("REVFFV"))

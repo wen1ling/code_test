@@ -1,6 +1,6 @@
 """
 问题链接
-https://www.codewars.com/kata/514b92a657cdc65150000006/train/python
+https://www.codewars.com/kata/514b92a657cdc65150000006
 """
 
 
@@ -26,3 +26,6 @@ def solution(number):
                 five_number += j
         result = three_number + five_number
     return result
+
+
+print(solution(99))

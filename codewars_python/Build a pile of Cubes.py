@@ -18,6 +18,7 @@ def find_nb(m):
     for i in range(1, left_result):
         initial_result = initial_result + i * i * i
         # 降低计算量，先将基本的初始值得到
+    print(initial_result, left_result)
     for j in range(left_result, right_result):
         # 估算n的范围
         initial_result = initial_result + j * j * j

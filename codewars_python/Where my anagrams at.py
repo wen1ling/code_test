@@ -1,6 +1,6 @@
 """
 问题描述
-https://www.codewars.com/kata/55c04b4cc56a697bb0000048
+https://www.codewars.com/kata/523a86aa4230ebb5420001e1
 """
 
 
